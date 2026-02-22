@@ -1,4 +1,4 @@
-# Hi there, I'm Krislay Prajapati 👋
+# Hi, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Krislay+Prajapati;Full+Stack+Developer;Python+Enthusiast" alt="Typing SVG" />
 
 ### 👨‍💻 About Me
 - 🎓 I’m currently sharpening my skills in Software Development.
@@ -29,7 +29,7 @@
 ---
 
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrislayPrajapati&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krislay2207&theme=tokyonight)
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
