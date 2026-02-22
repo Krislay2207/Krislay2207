@@ -1,10 +1,10 @@
-# Hi, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Krislay+Prajapati;Full+Stack+Developer;Python+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Krislay+Prajapati;Full+Stack+Developer;Python+Enthusiast" alt="Typing SVG" />
 
 ### 👨‍💻 About Me
 - 🎓 I’m currently sharpening my skills in Software Development.
 - 🚀 Passionate about building clean, efficient, and scalable code.
 - 💬 Ask me about **Python**, **Web Dev**, or **C**.
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **krislaykumarprajapati@gmail.com**
 
 ---
 
